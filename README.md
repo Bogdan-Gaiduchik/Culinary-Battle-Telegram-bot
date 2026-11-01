@@ -49,7 +49,7 @@ Telegram-бот, тема №13 «Кулинарный батл». Бот пок
 ## Архитектура
 
 ```
-cooking_battle_bot/
+Culinary-Battle-Telegram-bot/
 ├── bot/
 │   ├── main.py          # точка входа, логирование, запуск polling
 │   ├── config.py        # чтение .env
@@ -171,8 +171,8 @@ erDiagram
 ### 2. Установите проект
 
 ```bash
-git clone [ссылка на репозиторий]
-cd cooking_battle_bot
+git clone https://github.com/Bogdan-Gaiduchik/Culinary-Battle-Telegram-bot.git
+cd Culinary-Battle-Telegram-bot
 python -m venv .venv
 
 # Windows (PowerShell)
